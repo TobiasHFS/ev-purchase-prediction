@@ -1,5 +1,4 @@
-# Resolved on 2026-10-03 for Python 3.12 on Windows.
-# All resolved packages checked against OSV; no listed advisories at review time.
+# Python 3.12
 alembic==1.20.0
 catboost==1.2.10
 cloudpickle==3.1.2
