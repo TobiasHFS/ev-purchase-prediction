@@ -20,7 +20,7 @@ numpy==2.5.3
 optuna==4.9.0
 packaging==26.3
 pandas==3.0.6
-pillow==12.3.0
+pillow==13.0.0
 plotly==7.1.0
 pluggy==1.6.0
 Pygments==2.21.0
